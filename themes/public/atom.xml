@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>名寓波涛汹涌，吾欲做小溪</title>
+  
+  <subtitle>名寓波涛汹涌，吾欲做小溪</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-10-31T09:30:08.426Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>林涨通</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>README</title>
+    <link href="http://yoursite.com/2019/10/31/README/"/>
+    <id>http://yoursite.com/2019/10/31/README/</id>
+    <published>2019-10-31T09:30:08.426Z</published>
+    <updated>2019-10-31T09:30:08.426Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="I-has-some-secert"><a href="#I-has-some-secert" class="headerlink" title="I has some secert"></a>I has some secert</br></h1><h3 id="clap-clap-clap-Do-Something-Funny-Do-a-Funny-Person-clap-clap-clap"><a href="#clap-clap-clap-Do-Something-Funny-Do-a-Funny-Person-clap-clap-clap" class="headerlink" title=":clap::clap::clap:Do Something Funny,Do a Funny Person :clap::clap::clap:"></a>:clap::clap::clap:Do Something Funny,Do a Funny Person :clap::clap::clap:</br></h3></br></br></br>My Motto:crown::</br>我们只是路过万物</br>像一阵风吹过</br>万物对我们沉默</br>仿佛有一种默契</br>也许</br>视我们半是耻辱</br>半是难以言喻的希望</br></br>:running::running::running::running:]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;I-has-some-secert&quot;&gt;&lt;a href=&quot;#I-has-some-secert&quot; class=&quot;headerlink&quot; title=&quot;I has some secert&quot;&gt;&lt;/a&gt;I has some secert&lt;/br&gt;&lt;/h1&gt;&lt;h3 id=&quot;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
