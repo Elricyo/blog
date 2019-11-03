@@ -1,0 +1,21 @@
+menu:
+    首页: /
+    佚文: /archives/
+    #Weibo: http://weibo.com/sunchongsheng
+    GitHub: https://github.com/Elricyo
+    Me: /about
+
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+# ga: UA-xxxxxxxx-x
+
+# Copyright Infomation
+startyear: 2015
