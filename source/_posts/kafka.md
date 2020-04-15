@@ -10,11 +10,11 @@ tags:
 消费者，也就是接收消息的一方。消费者连接到 Kafka 上并接收消息，进而进行相应的业务逻辑处理。
 ## 1.3 Broker
 Broker 官方术语就是服务的代理节点，也就是Kafka所谓的队列。对于 Kafka 而言，Broker 可以简单地看作一个独立的 Kafka 服务节点或 Kafka 服务实例。大多数情况下也可以将 Broker 看作一台 Kafka 服务器，前提是这台服务器上只部署了一个 Kafka 实例。一个或多个 Broker 组成了一个 Kafka 集群。一般而言，我们更习惯使用首字母小写的 broker 来表示服务代理节点。
-## 1.4 Topic
+##1.4 Topic
 Kafka以topic对消息进行归类，生产者将消息发送到特定的topic，然后消费者到特定的topic消费。
 ## 1.5 Partition
 Topic还可以细分分区（Partition）,同一个主题下的分区所包含的信息还是不一样的。
-![image.png](https://user-gold-cdn.xitu.io/2019/3/5/16949bd6279df106?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
+![image.png](https://s2.ax1x.com/2019/12/02/QnLRmt.png)
 ***
 #2.Kafka的安装
 ## 2.1 ZK 的安装
